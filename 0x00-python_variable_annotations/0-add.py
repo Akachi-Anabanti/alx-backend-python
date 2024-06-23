@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 '''A Script that defines a typed function that performs
 addition operation'''
 
