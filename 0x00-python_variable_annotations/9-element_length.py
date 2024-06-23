@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 '''Correctly annotates a function and it's return values'''
 from typing import List, Iterable, Tuple, Sequence
 
