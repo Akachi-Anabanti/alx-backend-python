@@ -5,7 +5,7 @@ import asyncio
 import random
 
 
-async def async_generator() -> Generator[int, None, None]]:
+async def async_generator() -> Generator[int, None, None]:
     '''async genrator generates random unifrm numbers'''
     for _ in range(10):
         await asyncio.sleep(1)
